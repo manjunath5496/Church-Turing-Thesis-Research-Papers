@@ -72,7 +72,139 @@
 </tbody>
 </table>
 </br>
-
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Alan Turing</div>
+<br />
+<div class="honorific-suffix"><span class="noexcerpt nowraplinks"><a class="mw-redirect" title="Officer of the Order of the British Empire" href="https://en.wikipedia.org/wiki/Officer_of_the_Order_of_the_British_Empire">OBE</a>&nbsp;<a title="Fellow of the Royal Society" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society">FRS</a></span></div>
+</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="220px-Alan_Turing_Aged_16.jpg"><img src="220px-Alan_Turing_Aged_16.jpg" srcset="220px-Alan_Turing_Aged_16.jpg" alt="Alan Turing Aged 16.jpg" width="220" height="300" data-file-width="675" data-file-height="919" /></a>
+<div>Turing&nbsp;<abbr title="circa">c.</abbr>&nbsp;1928 at age 16</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>
+<div class="nickname">Alan Mathison Turing</div>
+<br />23 June 1912<br />
+<div class="birthplace"><a title="Maida Vale" href="https://en.wikipedia.org/wiki/Maida_Vale">Maida Vale</a>, London, United Kingdom</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Died</th>
+<td>7 June 1954&nbsp;(aged&nbsp;41)<br />
+<div class="deathplace"><span class="nowrap"><a title="Wilmslow" href="https://en.wikipedia.org/wiki/Wilmslow">Wilmslow</a>, Cheshire, United Kingdom</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">Cause&nbsp;of death</th>
+<td>Suicide (disputed) by&nbsp;<a title="Cyanide poisoning" href="https://en.wikipedia.org/wiki/Cyanide_poisoning">cyanide poisoning</a></td>
+</tr>
+<tr>
+<th scope="row">Resting place</th>
+<td class="label">Ashes scattered in gardens of&nbsp;<a title="Woking Crematorium" href="https://en.wikipedia.org/wiki/Woking_Crematorium">Woking Crematorium</a></td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category">English</td>
+</tr>
+<tr>
+<th scope="row">Education</th>
+<td><a title="Sherborne School" href="https://en.wikipedia.org/wiki/Sherborne_School">Sherborne School</a></td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="University of Cambridge" href="https://en.wikipedia.org/wiki/University_of_Cambridge">University of Cambridge</a>&nbsp;(<a title="Bachelor of Arts" href="https://en.wikipedia.org/wiki/Bachelor_of_Arts">BA</a>,&nbsp;<a title="Master of Arts" href="https://en.wikipedia.org/wiki/Master_of_Arts">MA</a>)</li>
+<li><a title="Princeton University" href="https://en.wikipedia.org/wiki/Princeton_University">Princeton University</a>&nbsp;(PhD)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="Cryptanalysis of the Enigma" href="https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma">Cryptanalysis of the Enigma</a></li>
+<li><a title="Turing's proof" href="https://en.wikipedia.org/wiki/Turing%27s_proof">Turing's proof</a></li>
+<li><a title="Turing machine" href="https://en.wikipedia.org/wiki/Turing_machine">Turing machine</a></li>
+<li><a title="Turing test" href="https://en.wikipedia.org/wiki/Turing_test">Turing test</a></li>
+<li><a title="Unorganized machine" href="https://en.wikipedia.org/wiki/Unorganized_machine">Unorganised machine</a></li>
+<li><a title="Turing pattern" href="https://en.wikipedia.org/wiki/Turing_pattern">Turing pattern</a></li>
+<li><a title="Turing reduction" href="https://en.wikipedia.org/wiki/Turing_reduction">Turing reduction</a></li>
+<li><a title="The Chemical Basis of Morphogenesis" href="https://en.wikipedia.org/wiki/The_Chemical_Basis_of_Morphogenesis">The Chemical Basis of Morphogenesis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Partner(s)</span></th>
+<td><a title="Joan Clarke" href="https://en.wikipedia.org/wiki/Joan_Clarke">Joan Clarke</a><br />(engaged in 1941; did not marry)</td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td><a title="Smith's Prize" href="https://en.wikipedia.org/wiki/Smith%27s_Prize">Smith's Prize</a>&nbsp;(1936)</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category">
+<div class="plainlist">
+<ul>
+<li><a title="Logic" href="https://en.wikipedia.org/wiki/Logic">Logic</a></li>
+<li>Mathematics</li>
+<li><a title="Cryptanalysis" href="https://en.wikipedia.org/wiki/Cryptanalysis">Cryptanalysis</a></li>
+<li><a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">Computer science</a></li>
+<li><a title="Mathematical and theoretical biology" href="https://en.wikipedia.org/wiki/Mathematical_and_theoretical_biology">Mathematical and theoretical biology</a><sup id="cite_ref-googlescholar_1-0" class="reference"></sup></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td>
+<div class="plainlist">
+<ul>
+<li><a title="University of Manchester" href="https://en.wikipedia.org/wiki/University_of_Manchester">University of Manchester</a></li>
+<li><a class="mw-redirect" title="Government Code and Cypher School" href="https://en.wikipedia.org/wiki/Government_Code_and_Cypher_School">Government Code and Cypher School</a></li>
+<li><a class="mw-redirect" title="National Physical Laboratory, UK" href="https://en.wikipedia.org/wiki/National_Physical_Laboratory,_UK">National Physical Laboratory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th scope="row"><a title="Thesis" href="https://en.wikipedia.org/wiki/Thesis">Thesis</a></th>
+<td><a class="external text" href="Turing_1939_Sysyems.pdf" rel="nofollow"><em>Systems of Logic Based on Ordinals</em></a>&nbsp;(1938)</td>
+</tr>
+<tr>
+<th scope="row"><a title="" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td><a title="Alonzo Church" href="https://en.wikipedia.org/wiki/Alonzo_Church">Alonzo Church</a><sup id="cite_ref-mathgene_2-0" class="reference"></sup></td>
+</tr>
+<tr>
+<th scope="row">Doctoral students</th>
+<td><a title="Robin Gandy" href="https://en.wikipedia.org/wiki/Robin_Gandy">Robin Gandy</a>,<sup id="cite_ref-mathgene_2-1" class="reference"></sup><sup id="cite_ref-gandyphd_3-0" class="reference"></sup>&nbsp;<a title="Beatrice Worsley" href="https://en.wikipedia.org/wiki/Beatrice_Worsley">Beatrice Worsley</a><sup id="cite_ref-bowen19_4-0" class="reference"></sup></td>
+</tr>
+<tr>
+<th scope="row">Influences</th>
+<td><a title="Max Newman" href="https://en.wikipedia.org/wiki/Max_Newman">Max Newman</a><sup id="cite_ref-5" class="reference"></sup></td>
+</tr>
+<tr>
+<th colspan="2">Signature</th>
+</tr>
+<tr>
+<td colspan="2"><a class="image" href="150px-Alan_Turing_signature.svg.png"><img src="150px-Alan_Turing_signature.svg.png" srcset="150px-Alan_Turing_signature.svg.png" alt="Alan Turing signature.svg" width="150" height="30" data-file-width="585" data-file-height="118" /></a></td>
+</tr>
+</tbody>
+</table>
 </br>
 <h2> Papers </h2>
 
